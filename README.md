@@ -13,7 +13,7 @@ ___
 - [frugal](https://pypi.org/project/frugal/)
 
 
-##Installing
+## Installing
 1. `git clone https://github.com/dyseo/LineService`
 2. `python3 setup.py install`
 
