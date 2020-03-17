@@ -14,7 +14,7 @@ ___
 
 
 ## Installing
-1. `git clone https://github.com/dyseo/LineService`
+1. `git clone https://github.com/dyseo/PublicLineService`
 2. `python3 setup.py install`
 
 ## Author
